@@ -14,19 +14,20 @@ It almost tooked 4 hours to complete this.
 
 ## Screen Shorts of the project
 
-![](./Screens/Screen1.jpg)
+![Screen1](./Screens/Screen1.jpg)
 
 ---
 
-![](./Screens/Screen2.jpg)
+![Screen2](./Screens/Screen2.jpg)
 
 ---
 
-![](./Screens/Screen3.jpg)
+![Screen3](./Screens/Screen3.jpg)
 
 ---
 
-![](./Screens/Screen4.jpg)
+![Screen4](./Screens/Screen4.jpg)
 
 ## Live link to the project
 
+[Netlify Link...](https://developer-landing-page-proj09.netlify.app/)
